@@ -14,26 +14,21 @@ This repository showcases projects in Excel, SQL, Power BI, Tableau, and Microso
 ## 💼 Work Experience
 ### **Data Analyst – Amdari**  
 *2025 – Present*  
-- (Add 2–3 bullet points briefly describing what you do)
-
+- Built interactive dashboards for NovaMed, Cafe Harmony & others
+- Conducted trend analysis and visual storytelling using Power Excel/BI/SQL/Tableau charts to provide actionable insights in alignment with marketing data
 ### **Sales Agent – GEICO**  
 *2023 – 2025*  
-Tracked and analyzed daily KPIs—including call volume, customer responses, and quote-to-bind conversion—to identify trends and optimize sales performance.
-
-Utilized Power BI dashboards to review sales categories, evaluate ranking among peers, and monitor performance metrics across product lines.
-
-Consistently exceeded the required 30% conversion minimum, maintaining an average conversion rate of 35%+ through data-informed decision-making and customer segmentation.
-
-Recognized patterns in customer behavior and documentation, resulting in the highest number of flagged suspicious clients on the team, contributing to fraud prevention and risk evaluation.
-
-Leveraged analytical insights to sustain quota performance, improve customer targeting, and enhance overall policy adherence and compliance.
+- Tracked and analyzed daily KPIs—including call volume, customer responses, and quote-to-bind conversion—to identify trends and optimize sales performance.
+- Consistently exceeded the required 30% conversion minimum, maintaining an average conversion rate of 35%+ through data-informed decision-making and customer segmentation.
+- Recognized patterns in customer behavior and documentation, resulting in the highest number of flagged suspicious clients on the team, contributing to fraud prevention and risk evaluation.
+- Leveraged analytical insights to sustain quota performance, improve customer targeting, and enhance overall policy adherence and compliance.
 ---
 
 ## 📁 Projects
 
 ### 🔹 **Excel Projects**
-- Project #1 — *description*  
-- Project #2 — *description*
+- Cafe Harmony — *description*  
+- Project #2 — 
 
 ### 🔹 **SQL Projects**
 - Project #1 — *description*  
