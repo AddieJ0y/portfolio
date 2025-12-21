@@ -13,7 +13,7 @@ This repository showcases projects in Excel, SQL, Power BI, Tableau, and Microso
 
 ## 💼 Work Experience
 ### **Data Analyst – Amdari**  
-*2025 – Present*  
+*Nov 2025 – Present*  
 - Built interactive dashboards for NovaMed, Cafe Harmony & others
 - Conducted trend analysis and visual storytelling using Power Excel/BI/SQL/Tableau charts to provide actionable insights in alignment with marketing data
 ### **Sales Agent – GEICO**  
@@ -26,17 +26,16 @@ This repository showcases projects in Excel, SQL, Power BI, Tableau, and Microso
 
 ## 📁 Projects
 
-### 🔹 **Excel Projects**
-- Cafe Harmony — *description*  
+### 🔹 **Excel Project**
+- Cafe Harmony — Dashboard built via Excel to graph the data concerning the Cafe's previous customers.  
 - Project #2 — 
 
 ### 🔹 **SQL Projects**
-- Project #1 — *description*  
-- Project #2 — *description*
+- NextGen — Set up queries for the analysis of NextGen's employees  
 
 ### 🔹 **Power BI Dashboards**
 - [Dashboard Link #1](your-power-bi-link-here)  
-- [Dashboard Link #2](your-link-here)
+- [#2](your-link-here)
 
 ### 🔹 **Tableau Dashboards**
 - [Dashboard Link #1](your-tableau-public-link-here)  
