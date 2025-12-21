@@ -14,7 +14,11 @@ This repository showcases projects in Excel, SQL, Power BI, Tableau, and Microso
 ## 💼 Work Experience
 ### **Data Analyst – Amdari**  
 *Nov 2025 – Present*  
-- Built interactive dashboards for NovaMed, Cafe Harmony & others
+- Built interactive dashboards for AfriTech Electronics Ltd, Streamline Logistics Solutions & others
+- Conducted trend analysis and visual storytelling using Power Excel/BI/SQL/Tableau charts to provide actionable insights in alignment with marketing data
+### **Data Analyst – 10Alytics**  
+*May 2025 – Nov 2025*  
+- Built interactive dashboards for NovaMed, Cafe Harmony, NextGen & more
 - Conducted trend analysis and visual storytelling using Power Excel/BI/SQL/Tableau charts to provide actionable insights in alignment with marketing data
 ### **Sales Agent – GEICO**  
 *2023 – 2025*  
